@@ -21,8 +21,6 @@ Este projeto utiliza as seguintes tecnologias e ferramentas
 
 - <strong>Shadcn/UI</strong>: Biblioteca de componentes UI para uma experiência de desenvolvimento aprimorada.
 
-- <strong>Context API</strong>: Gerenciamento de estados da aplicação.
-
 ## Instalação
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento local
